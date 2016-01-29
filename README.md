@@ -32,6 +32,8 @@ The dataset includes the following files:
 
 - 'CodeBook.md': describes the variables.
 
+- 'mean_by_subject_activity.txt': output file
+
 - 'getdata-projectfiles-UCI HAR Dataset.zip': containing the following files:
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
